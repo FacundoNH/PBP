@@ -7,9 +7,13 @@
 ##### COMANDOS BASICOS DE CMDER:
 
 cd: sirve para moverme a una carpeta deseada ejemplo "cd documentos" y para ir hacia atras se usa "cd .."
+
 ls: listado de carpetas y archivos dentro de un directorio
+
 mkdir: crear directorios nuevos (carpetas)
+
 touch: crear archivos dentro de un directorio
+
 crtl+l: limpias la consola
 
 ##### COMANDOS DE PYTHON USADOS:
