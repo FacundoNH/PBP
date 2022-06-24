@@ -2,7 +2,7 @@
 
 **Para este repositorio utilice:**
 
-*Cmder*, *Visual studio code*  * y Git*
+*Cmder*, *Visual studio code*  *y Git*
 
 ##### COMANDOS BASICOS DE CMDER:
 
